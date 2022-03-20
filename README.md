@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pradeep Jhuriya (sam5epi0l)</h1>
 <h3 align="center">A cybersecurity enthusiast with strong knowledge in Linux, Programming, Web Pentesting, Network Exploitation, etc.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sam5epi0l&label=Profile%20views&color=0e75b6&style=flat" alt="sam5epi0l" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sam5epi0l" alt="sam5epi0l" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/sam5epi0l" target="blank"><img src="https://img.shields.io/twitter/follow/sam5epi0l?logo=twitter&style=for-the-badge" alt="sam5epi0l" /></a> </p>
