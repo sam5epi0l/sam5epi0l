@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Pradeep (sam5epi0l)</h1>
-<h3 align="center">A cybersecurity enthusiast with strong knowledge in Linux, Programming, Web Exploitation, Network Exploitation, Programming, etc. More to be added soon!</h3>
+<h1 align="center">Hi 👋, I'm Pradeep Jhuriya (sam5epi0l)</h1>
+<h3 align="center">A cybersecurity enthusiast with strong knowledge in Linux, Programming, Web Pentesting, Network Exploitation, etc.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sam5epi0l&label=Profile%20views&color=0e75b6&style=flat" alt="sam5epi0l" /> </p>
 
@@ -7,19 +7,19 @@
 
 <p align="left"> <a href="https://twitter.com/sam5epi0l" target="blank"><img src="https://img.shields.io/twitter/follow/sam5epi0l?logo=twitter&style=for-the-badge" alt="sam5epi0l" /></a> </p>
 
-- 🔭 I’m currently working on [BotTuber](https://github.com/sam5epi0l/BotTuber)
+- 🔭 I’m currently working on Beginner-Bug-Bounty-Automation
 
-- 🌱 I’m currently learning **Everything in IT mainly CyberSecurity**
+- 🌱 I’m currently learning **WebApp Pentesting**
 
-- 👯 I’m looking to collaborate on [BotTuber](https://github.com/sam5epi0l/BotTuber)
+- 👯 I’m looking to collaborate on Beginner-Bug-Bounty-Automation
 
-- 🤝 I’m looking for help with [BotTuber](https://github.com/sam5epi0l/BotTuber)
+- 🤝 I’m looking for help with Beginner-Bug-Bounty-Automation
 
 - 📝 I regularly write articles on [https://medium.com/@sam5epi0l](https://medium.com/@sam5epi0l)
 
-- 💬 Ask me about **WebApp Hacking**
+- 💬 Ask me about **CyberSecurity**
 
-- 📫 How to reach me **fs0c1et@protonmail.com**
+- 📫 DMs are open!
 
 - 📄 Know about my experiences [https://twitter.com/sam5epi0l](https://twitter.com/sam5epi0l)
 
