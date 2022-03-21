@@ -7,15 +7,7 @@
 
 - 🔭 I’m currently working on Beginner-Bug-Bounty-Automation
 
-- 🌱 I’m currently learning **WebApp Pentesting**
-
-- 👯 I’m looking to collaborate on Beginner-Bug-Bounty-Automation
-
-- 🤝 I’m looking for help with Beginner-Bug-Bounty-Automation
-
 - 📝 I regularly write articles on [https://medium.com/@sam5epi0l](https://medium.com/@sam5epi0l)
-
-- 💬 Ask me about **CyberSecurity**
 
 - 📫 DMs are open!
 
@@ -37,9 +29,3 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/sam5epi0l"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sam5epi0l" /></a></p><br><br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sam5epi0l&show_icons=true&locale=en&layout=compact" alt="sam5epi0l" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sam5epi0l&show_icons=true&locale=en" alt="sam5epi0l" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sam5epi0l&" alt="sam5epi0l" /></p>
