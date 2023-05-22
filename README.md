@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 
 **YOU CAN ALSO FIND ME AT THESE PLACES**
 
-- [Linkedin](https://www.linkedin.com/in/sam5epi0l/) - Public linkedin profile
+- [Linkedin](https://www.linkedin.com/in/sam5epi0l/) - Public linkedin/work profile. Open for freelance work. 
 - [Medium](https://www.medium.com/@sam5epi0l/) - My Articles
-- [Stack Overflow]([https://twitter.com/users/919324/sam5epi0l](https://stackoverflow.com/users/14760677/pradeep-jhuriya)) - Not very active anymore
+- [Stack Overflow](https://stackoverflow.com/users/14760677/pradeep-jhuriya) - Not very active anymore
 - [Twitter](https://twitter.com/sam5epi0l) - Thoughts and insights (DMs open)
 
 **DONATE**
